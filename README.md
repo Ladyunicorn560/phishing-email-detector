@@ -15,7 +15,7 @@ An AI tool that identifies phishing emails in real-time to protect users from cy
 * Implementation: Can be integrated as an email filter or browser plugin.
 
 ## Data sources and AI methods
-* Data: Public phishing email dataset from [Kaggle](https://www.kaggle.com/datasets/mrwellsd/phishing-emails)
+* Data: Public phishing email dataset from Kaggle.
 * AI Techniques:
   * Text preprocessing: Cleaning, tokenization, TF-IDF vectorization
   * Classification: Logistic Regression or Neural Networks
@@ -33,5 +33,5 @@ An AI tool that identifies phishing emails in real-time to protect users from cy
 * Collaborate with cybersecurity experts for real-world deployment.
 
 ## Acknowledgments
-* [Phishing Email Dataset on Kaggle](https://www.kaggle.com/datasets/mrwellsd/phishing-emails)
+* Phishing Email Dataset on Kaggle
 * Inspired by public AI email classification projects.
